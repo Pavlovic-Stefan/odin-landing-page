@@ -206,3 +206,18 @@
     border-color: #F9FAF8;
     height:42px;
 }
+
+/*Call to action ^^^*/ /*Footer vvv*/
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    height: 100px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer > p {
+    color: #F9FAF8;
+    font-size: 18px;
+}
