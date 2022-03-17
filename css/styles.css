@@ -157,3 +157,52 @@
     font-weight: bold;
     font-size: 24px;
 }
+
+/*Quote ^^^*/ /*Call to action vvv*/
+
+.cta-container {
+    height: 300px;
+    width: 1000px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.cta-blue-container {
+    display: flex;
+    background-color: #3882F6;
+    width: 100%;
+    height: 120px;
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 8px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cta-text-container {
+    color: #F9FAF8 ;
+}
+
+.one {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.two {
+    font-size: 18px;
+}
+
+.cta-blue-container > button {
+    background-color: #3882F6;
+    font-size: 18px;
+    font-weight: bold;
+    color: #F9FAF8; 
+    padding: 8px 32px;
+    border-style: solid;
+    border-radius: 8px;
+    border-width: 2px;
+    border-color: #F9FAF8;
+    height:42px;
+}
