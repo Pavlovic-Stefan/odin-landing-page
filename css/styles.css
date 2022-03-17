@@ -87,3 +87,43 @@
     border-radius: 8px;
 }
 
+/*Header and central region ^^^*/ /*Information vvv*/
+
+.information-container {
+    height: 440px;
+    width:1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.information-container > p {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    margin: 32px;
+}
+
+.sub-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sub-sub-container {
+    width: 170px;
+}
+
+.blue-box{
+    height: 162px;
+    width:162px;
+    border: #3882F6;
+    border-style: solid;
+    border-width: 4px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.sub-sub-container > p {
+    font-size: 18px;
+    color: #6d747d;
+    margin-top: 8px;
+}
