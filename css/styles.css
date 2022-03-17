@@ -34,6 +34,12 @@
     gap: 20px;
 }
 
+.header-links > li > a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
 .center {
     display: flex;
     align-items: center;
