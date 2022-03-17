@@ -127,3 +127,33 @@
     color: #6d747d;
     margin-top: 8px;
 }
+
+/*Information ^^^*/ /*Quote vvv*/
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-container {
+    height: 360px;
+    align-items: center;
+    margin: 0 auto;
+    width: 790px;
+}
+
+.quote-itself {
+    font-size: 36px;
+    font-weight: 300;
+    color: #1F2937;
+    font-style: italic;
+    padding-top: 90px;
+}
+
+.quote-author {
+    text-align: right;
+}
+
+.quote-author > p {
+    font-weight: bold;
+    font-size: 24px;
+}
